@@ -1,0 +1,14 @@
+truffle compile (Para compilar el codigo)
+truffle deploy (Para hacer deploy a la red)
+truffle console (Para abrir una terminal de desarrollo y nos permite interactuar con el contrato)
+truffle migrate (Para correr las migraciones, [compila y hace deploy con los cambios])
+truffle test (Para correr los tests)
+truffle migrate --reset (Para correr las migraciones, pero reiniciando todo de 0)
+
+
+
+
+
+npm init --yes (Para crear un proyecto node)
+npm i lite-server bootstrap (Permite usar un servidor para el cliente y bueno bootstrap)
+npm i @truffle/contract (Para poder usar el contrato desde nuestro frontend)
